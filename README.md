@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/anyagupta03/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/anyagupta03/LEETCODE/tree/master/0152-maximum-product-subarray) |
 ## Binary Search
 |  |
@@ -25,4 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/anyagupta03/LEETCODE/tree/master/0011-container-with-most-water) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/anyagupta03/LEETCODE/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/anyagupta03/LEETCODE/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
